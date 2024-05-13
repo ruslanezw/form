@@ -1,0 +1,50 @@
+.link {
+    font-weight: 500;
+    size: 20px;
+    line-height: 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.login {
+    color: #3D3D3D;
+}
+
+.register {
+    color: #46A358;
+}
+
+.describe {
+    font-weight: 400;
+    size: 13px;
+    line-height: 16px;
+    color: #3D3D3D;
+}
+
+.input {
+    font-weight: 400;
+    size: 14px;
+    line-height: 16px;
+    color: #A5A5A5;
+    text-align: left;
+}
+
+.button {
+    font-weight: 700;
+    size: 16px;
+    line-height: 16px;
+    color: #FFFFFF;
+    background-color: #46A358;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+}
+
+.linked {
+    font-weight: 500;
+    size: 13px;
+    line-height: 16px;
+    color: #727272;
+    text-decoration: none;
+    text-align: center;
+}
